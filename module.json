@@ -1,0 +1,26 @@
+{
+  "id": "sabelschwinger-insel-abenteuer",
+  "title": "Säbelschwinger Insel Abenteuer",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "packs": [
+    {
+      "name": "sabelschwinger-insel-abenteuer",
+      "label": "Säbelschwinger Insel Abenteuer",
+      "path": "packs/sabelschwinger-insel-abenteuer",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    }
+  ],
+  "url":"https://github.com/M4leph1st0/Saebelschwinger_Adventures ",
+  "manifest":" ",
+  "download":" "
+}
