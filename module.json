@@ -1,7 +1,7 @@
 {
   "id": "sabelschwinger-insel-abenteuer",
   "title": "Säbelschwinger Insel Abenteuer",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
@@ -22,5 +22,5 @@
   ],
   "url":"https://github.com/M4leph1st0/Saebelschwinger_Adventures",
   "manifest":"https://github.com/M4leph1st0/Saebelschwinger_Adventures/releases/latest/download/module.json",
-  "download":"https://github.com/M4leph1st0/Saebelschwinger_Adventures/releases/download/1.1.5/sabelschwinger-insel-abenteuer.zip"
+  "download":"https://github.com/M4leph1st0/Saebelschwinger_Adventures/releases/download/1.1.6/sabelschwinger-insel-abenteuer.zip"
 }
