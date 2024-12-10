@@ -1,15 +1,8 @@
-2024/11/13-11:02:50.587448 7f38fd7fa640 Recovering log #57
-2024/11/13-11:02:50.588879 7f38fd7fa640 Delete type=3 #55
-2024/11/13-11:02:50.588895 7f38fd7fa640 Delete type=0 #57
-2024/11/13-11:59:58.709569 7f33df6ff640 Level-0 table #62: started
-2024/11/13-11:59:58.711002 7f33df6ff640 Level-0 table #62: 87175 bytes OK
-2024/11/13-11:59:58.711579 7f33df6ff640 Delete type=0 #60
-2024/11/13-11:59:58.712519 7f33df6ff640 Manual compaction at level-0 from '!adventures!nby6oaB4YJgjMsJ0' @ 72057594037927935 : 1 .. '!folders!GDwpMhyp9tOAtr6A' @ 0 : 0; will stop at (end)
-2024/11/13-11:59:58.712542 7f33df6ff640 Manual compaction at level-1 from '!adventures!nby6oaB4YJgjMsJ0' @ 72057594037927935 : 1 .. '!folders!GDwpMhyp9tOAtr6A' @ 0 : 0; will stop at '!adventures!nby6oaB4YJgjMsJ0' @ 5 : 1
-2024/11/13-11:59:58.712544 7f33df6ff640 Compacting 1@1 + 1@2 files
-2024/11/13-11:59:58.714139 7f33df6ff640 Generated table #63@1: 1 keys, 87175 bytes
-2024/11/13-11:59:58.714146 7f33df6ff640 Compacted 1@1 + 1@2 files => 87175 bytes
-2024/11/13-11:59:58.714550 7f33df6ff640 compacted to: files[ 0 0 2 0 0 0 0 ]
-2024/11/13-11:59:58.714592 7f33df6ff640 Delete type=2 #54
-2024/11/13-11:59:58.714621 7f33df6ff640 Delete type=2 #62
-2024/11/13-11:59:58.715059 7f33df6ff640 Manual compaction at level-1 from '!adventures!nby6oaB4YJgjMsJ0' @ 5 : 1 .. '!folders!GDwpMhyp9tOAtr6A' @ 0 : 0; will stop at (end)
+2024/12/10-10:06:31.566182 7f38fcff9640 Recovering log #86
+2024/12/10-10:06:31.567255 7f38fcff9640 Delete type=3 #84
+2024/12/10-10:06:31.567271 7f38fcff9640 Delete type=0 #86
+2024/12/10-14:55:18.964819 7f33df6ff640 Level-0 table #91: started
+2024/12/10-14:55:18.965368 7f33df6ff640 Level-0 table #91: 478 bytes OK
+2024/12/10-14:55:18.965812 7f33df6ff640 Delete type=0 #89
+2024/12/10-14:55:18.984580 7f33df6ff640 Manual compaction at level-0 from '!adventures!nby6oaB4YJgjMsJ0' @ 72057594037927935 : 1 .. '!folders!fg9jxbw1ECjkUYQL' @ 0 : 0; will stop at (end)
+2024/12/10-14:55:18.984636 7f33df6ff640 Manual compaction at level-1 from '!adventures!nby6oaB4YJgjMsJ0' @ 72057594037927935 : 1 .. '!folders!fg9jxbw1ECjkUYQL' @ 0 : 0; will stop at (end)
