@@ -1,16 +1,8 @@
-2025/03/07-14:11:48.599628 7feda67fc640 Recovering log #149
-2025/03/07-14:11:48.600938 7feda67fc640 Delete type=3 #147
-2025/03/07-14:11:48.600965 7feda67fc640 Delete type=0 #149
-2025/03/07-14:25:47.008922 7feda4d80640 Level-0 table #154: started
-2025/03/07-14:25:47.010913 7feda4d80640 Level-0 table #154: 162273 bytes OK
-2025/03/07-14:25:47.011352 7feda4d80640 Delete type=0 #152
-2025/03/07-14:25:47.011458 7feda4d80640 Manual compaction at level-0 from '!adventures!0cgAgHqyOG3zO5R7' @ 72057594037927935 : 1 .. '!folders!fg9jxbw1ECjkUYQL' @ 0 : 0; will stop at (end)
-2025/03/07-14:25:47.012876 7feda4d80640 Manual compaction at level-1 from '!adventures!0cgAgHqyOG3zO5R7' @ 72057594037927935 : 1 .. '!folders!fg9jxbw1ECjkUYQL' @ 0 : 0; will stop at '!folders!N7ol96UqCTwJoTaK' @ 11 : 1
-2025/03/07-14:25:47.012881 7feda4d80640 Compacting 1@1 + 2@2 files
-2025/03/07-14:25:47.016957 7feda4d80640 Generated table #155@1: 5 keys, 287005 bytes
-2025/03/07-14:25:47.016965 7feda4d80640 Compacted 1@1 + 2@2 files => 287005 bytes
-2025/03/07-14:25:47.017384 7feda4d80640 compacted to: files[ 0 0 2 0 0 0 0 ]
-2025/03/07-14:25:47.017413 7feda4d80640 Delete type=2 #37
-2025/03/07-14:25:47.017444 7feda4d80640 Delete type=2 #96
-2025/03/07-14:25:47.017474 7feda4d80640 Delete type=2 #154
-2025/03/07-14:25:47.017522 7feda4d80640 Manual compaction at level-1 from '!folders!N7ol96UqCTwJoTaK' @ 11 : 1 .. '!folders!fg9jxbw1ECjkUYQL' @ 0 : 0; will stop at (end)
+2025/05/05-15:41:35.753136 7feda6ffd640 Recovering log #190
+2025/05/05-15:41:35.754367 7feda6ffd640 Delete type=0 #190
+2025/05/05-15:41:35.754394 7feda6ffd640 Delete type=3 #188
+2025/05/05-15:42:31.711049 7feda4d80640 Level-0 table #196: started
+2025/05/05-15:42:31.711062 7feda4d80640 Level-0 table #196: 0 bytes OK
+2025/05/05-15:42:31.711508 7feda4d80640 Delete type=0 #194
+2025/05/05-15:42:31.712497 7feda4d80640 Manual compaction at level-0 from '!adventures!0cgAgHqyOG3zO5R7' @ 72057594037927935 : 1 .. '!folders!fg9jxbw1ECjkUYQL' @ 0 : 0; will stop at (end)
+2025/05/05-15:42:31.712519 7feda4d80640 Manual compaction at level-1 from '!adventures!0cgAgHqyOG3zO5R7' @ 72057594037927935 : 1 .. '!folders!fg9jxbw1ECjkUYQL' @ 0 : 0; will stop at (end)
